@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/raphaelmun/LemminoWeb#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "twig": "^1.12.0"
   }
 }
