@@ -1,0 +1,22 @@
+{
+  "name": "lemminoweb",
+  "version": "1.0.0",
+  "description": "Lemmino Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelmun/LemminoWeb.git"
+  },
+  "author": "Lemmino, Inc.",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/raphaelmun/LemminoWeb/issues"
+  },
+  "homepage": "https://github.com/raphaelmun/LemminoWeb#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
