@@ -3296,6 +3296,25 @@ td, th {
   content: "";
 }
 
+.price-table-20 .ct-nav .nav-item0 {
+  border-bottom: 1px solid #eeeeee;
+  padding: 10px 25px 10px 25px;
+}
+
+.price-table-20 .ct-nav .nav-item0.active {
+  position: relative;
+}
+
+.price-table-20 .ct-nav .nav-item0.active:after {
+  bottom: 0;
+  left: 0;
+  background: #f69733;
+  height: 2px;
+  width: 100%;
+  position: absolute;
+  content: "";
+}
+
 .price-table-20 .single-price-table {
   background: #f9fafc;
   margin-top: 30px;
