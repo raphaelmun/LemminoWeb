@@ -116,7 +116,7 @@ body {
 }
 
 .home-17 h1, .home-17 h2, .home-17 h3, .home-17 h4, .home-17 h5, .home-17 h6 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .home-18 {
@@ -128,7 +128,7 @@ body {
 }
 
 .home-18 h1, .home-18 h2, .home-18 h3, .home-18 h4, .home-18 h5, .home-18 h6 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
 
@@ -141,7 +141,7 @@ body {
 }
 
 .home-19 h1, .home-19 h2, .home-19 h3, .home-19 h4, .home-19 h5, .home-19 h6 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
 
@@ -154,7 +154,7 @@ body {
 }
 
 .home-20 h1, .home-20 h2, .home-20 h3, .home-20 h4, .home-20 h5, .home-20 h6 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
 
@@ -167,7 +167,7 @@ body {
 }
 
 .home-21 h1, .home-21 h2, .home-21 h3, .home-21 h4, .home-21 h5, .home-21 h6 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
 
@@ -2550,6 +2550,7 @@ td, th {
 
 .zeplin-banner p {
   font-size: 20px;
+  font-weight: 300;
   line-height: 30px;
   margin: 0;
   padding: 20px 0 30px 0;
