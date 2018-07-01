@@ -101,8 +101,9 @@ $(document).ready(function(){
         dots: true,
         items: 1,
         autoplay:true,
-        autoplayTimeout:1500,
+        autoplayTimeout:5000,
         autoplayHoverPause:true,
+        autoplaySpeed: 800,
         animateOut: 'fadeOut'
     })
      $('.active-testimonial-18').owlCarousel({
@@ -111,7 +112,8 @@ $(document).ready(function(){
         dots: true,
         items: 1,
         autoplay:true,
-        autoplayTimeout:1500,
+        autoplayTimeout:5000,
+        autoplaySpeed: 800,
         autoplayHoverPause:true,
     })
      $('.active-fullscreen-testimonial').owlCarousel({
@@ -120,7 +122,8 @@ $(document).ready(function(){
         dots: true,
         items: 1,
         autoplay:true,
-        autoplayTimeout:1500,
+        autoplayTimeout:5000,
+        autoplaySpeed: 800,
         autoplayHoverPause:true,
         animateOut: 'fadeOut'
     })
