@@ -3274,7 +3274,7 @@ td, th {
   right: 0;
   background: #f69733;
   height: 2px;
-  width: 60%;
+  width: 75%;
   position: absolute;
   content: "";
 }
@@ -3293,7 +3293,7 @@ td, th {
   left: 0;
   background: #f69733;
   height: 2px;
-  width: 60%;
+  width: 75%;
   position: absolute;
   content: "";
 }
